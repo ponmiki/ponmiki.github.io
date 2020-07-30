@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+header {
+    font-size: 20px;
+    font-family: serif;
+    color: coral;
+    background-color: cornsilk;
+    
+}
+
+body
+h2 {
+    font-size: 16px;
+    font-family: serif;
+    color: antiquewhite;
+    
+}
